@@ -1,0 +1,3 @@
+Esto es una practica para C
+De ahora en adelante trabajaremos con git
+.....
